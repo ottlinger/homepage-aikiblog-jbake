@@ -8,7 +8,7 @@
 	<#list posts as post>
   		<#if (post.status == "published")>
   			<a href="${post.uri}"><h1>${post.title}</h1></a>
-  			<p>${post.date?string("dd MMMM yyyy")}</p>
+  			<p>${post.date?string("yyyy-MM-dd")}</p>
   			<p>${post.body}</p>
   		</#if>
   	</#list>
