@@ -5,8 +5,8 @@ jBake version of my very old WP blog
 
 ```
 $ download version jbake-2.7.0-rc.6-bin.zip
-$ jbake -i
-$ jbake -b -s
+$ jbake -i # init only once
+$ jbake -b -s # run in autobake mode
 ```
 
 ### Template
