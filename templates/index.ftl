@@ -3,7 +3,8 @@
 	<#include "menu.ftl">
 
 	<div class="page-header">
-		<h1>Blog</h1>
+		<h1>AIKIBLOG &mdash; Harmonie und IT</h1>
+                <h2>Neues aus der Welt der Harmonie - in der Ruhe liegt die Kraft</h2>
 	</div>
 	<#list posts as post>
   		<#if (post.status == "published")>
