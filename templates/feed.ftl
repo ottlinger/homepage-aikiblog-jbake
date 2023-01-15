@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JBake</title>
+    <title>AIKIBLOG – Harmonie und IT: Neues aus der Welt der Harmonie – in der Ruhe liegt die Kraft</title>
     <link>${config.site_host}</link>
     <atom:link href="${config.site_host}/${config.feed_file}" rel="self" type="application/rss+xml" />
-    <description>JBake Bootstrap Template</description>
-    <language>en-gb</language>
+    <description></description>
+    <language>de-de</language>
     <pubDate>${published_date?string("EEE, d MMM yyyy HH:mm:ss Z")}</pubDate>
     <lastBuildDate>${published_date?string("EEE, d MMM yyyy HH:mm:ss Z")}</lastBuildDate>
 
