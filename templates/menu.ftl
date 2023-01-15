@@ -22,8 +22,7 @@
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>verhaltensregeln.html">Verhaltensregeln</a></li>
                 <li class="divider"></li>
                 <li class="dropdown-header">Ablage</li>
-                <li><a href="#">Podcasts</a></li>
-                <li><a href="#">Scrum</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>podcasts.html">Podcasts</a></li>
               </ul>
             </li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Archive</a></li>
