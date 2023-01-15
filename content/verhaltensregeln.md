@@ -14,4 +14,4 @@ Im Bereich Open Source/freie Software ist es ja häufig sinnvoll, sich auf gewis
 * *When we are unsure, we ask for help* - sind wir uns unsicher, bitten wir um Hilfe.
 * *Step down considerately* - tritt rücksichtsvoll und umsichtig zurück.
 
-The Ubuntu code of conduct is licensed under the Creative Commons Attribution-Share Alike 3.0 licence. You may re-use it for your own project, and modify it as you wish, just please allow others to use your modifications and give credit to the Ubuntu Project!
+The Ubuntu code of conduct is licensed under the [Creative Commons Attribution-Share Alike 3.0 licence](https://creativecommons.org/licenses/by-sa/3.0/). You may re-use it for your own project, and modify it as you wish, just please allow others to use your modifications and give credit to the Ubuntu Project!
