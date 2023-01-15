@@ -6,14 +6,14 @@
     <atom:link href="${config.site_host}/${config.feed_file}" rel="self" type="application/rss+xml" />
     <description></description>
     <language>de-de</language>
-    <pubDate>${published_date?string("EEE, d MMM yyyy HH:mm:ss Z")}</pubDate>
-    <lastBuildDate>${published_date?string("EEE, d MMM yyyy HH:mm:ss Z")}</lastBuildDate>
+    <pubDate>${published_date?string("yyyy-MM-dd HH:mm:ss Z (EEE)")}</pubDate>
+    <lastBuildDate>${published_date?string("yyyy-MM-dd HH:mm:ss Z")}</lastBuildDate>
 
     <#list published_posts as post>
     <item>
       <title><#escape x as x?xml>${post.title}</#escape></title>
       <link>${config.site_host}/${post.uri}</link>
-      <pubDate>${post.date?string("EEE, d MMM yyyy HH:mm:ss Z")}</pubDate>
+      <pubDate>${post.date?string("yyyy-MM-dd  HH:mm:ss Z (EEE)")}</pubDate>
       <guid isPermaLink="false">${post.uri}</guid>
       	<description>
 	<#escape x as x?xml>	
