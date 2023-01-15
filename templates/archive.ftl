@@ -3,7 +3,7 @@
 	<#include "menu.ftl">
 	
 	<div class="page-header">
-		<h1>AIKIDOBLOG - Archive</h1>
+		<h1>AIKIBLOG - Archive</h1>
 	</div>
 	
 	<!--<ul>-->
@@ -19,7 +19,7 @@
 			<ul>
 		</#if>
 		
-		<li>${post.date?string("dd")} - <a href="${content.rootpath}${post.uri}">${post.title}</a></li>
+		<li>${post.date?string("yyyy-MM-dd (EEE)")} - <a href="${content.rootpath}${post.uri}">${post.title}</a></li>
 		<#assign last_month = post.date?string("MMMM yyyy")>
 		</#list>
 	</ul>
