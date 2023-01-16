@@ -1,10 +1,8 @@
-title=Links
+title=Kleine Linksammlung
 date=2022-12-29
 type=page
 status=published
 ~~~~~~
-# Kleine Linksammlung
-
 ### Brave New World
 
 * [Died Suddenly](https://www.diedsuddenly.info/)
