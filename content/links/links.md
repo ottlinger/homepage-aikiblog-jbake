@@ -10,6 +10,12 @@ Hier kommen meine Links hin, oder?!
 * [Example.org](http://example.org)
 * Keine Hühnerseite
 
+### Fun
+
+* []()
+* [Rauschen zur Entspannung](https://simplynoise.com/)
+* [Triff die Fliege](http://majman.net/fly_loader.html)
+
 ### Wissen
 
 * [Ubuntu Buch](https://openbook.rheinwerk-verlag.de/ubuntu/)
