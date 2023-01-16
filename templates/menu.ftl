@@ -12,7 +12,6 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>impressum.html">Impressum</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>links/links.html">Links</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seiten <b class="caret"></b></a>
@@ -27,6 +26,7 @@
             </li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Archive</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>${config.feed_file}">Subscribe</a></li>
+						<li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>impressum.html">Impressum</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
