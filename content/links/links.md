@@ -3,12 +3,7 @@ date=2022-12-29
 type=page
 status=published
 ~~~~~~
-# Kleine Sammlung
-
-Hier kommen meine Links hin, oder?!
-
-* [Example.org](http://example.org)
-* Keine Hühnerseite
+# Kleine Linksammlung
 
 ### Brave New World
 
@@ -19,6 +14,7 @@ Hier kommen meine Links hin, oder?!
 
 ### Fun
 
+* [Japan Trend Shop](https://www.japantrendshop.com/)
 * [Engrish Funny](http://engrishfunny.failblog.org/)
 * [Rauschen zur Entspannung](https://simplynoise.com/)
 * [Triff die Fliege](http://majman.net/fly_loader.html)
