@@ -12,7 +12,7 @@ Hier kommen meine Links hin, oder?!
 
 ### Fun
 
-* []()
+* [Engrish Funny](http://engrishfunny.failblog.org/)
 * [Rauschen zur Entspannung](https://simplynoise.com/)
 * [Triff die Fliege](http://majman.net/fly_loader.html)
 
