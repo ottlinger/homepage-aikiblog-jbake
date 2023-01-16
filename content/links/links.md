@@ -27,3 +27,12 @@ status=published
 * [DZone](https://dzone.com/)
 * [Creative-Commons-Lizenzauswahl](https://www.deviantart.com/doctormo/art/Which-CC-License-should-I-196792062)
 * [Codesuchmaschine](https://alternativeto.net/software/grepcode/)
+
+### Blogroll
+
+* [Daily WTF](https://thedailywtf.com/)
+* [Flugplanungen](https://www.informationisbeautiful.net/visualizations/reduce-your-chances-of-dying-in-a-plane-crash/)
+* [Tanith DJ Berlin](https://soundcloud.com/tanith)
+* [Digitally Imported](https://di.fm)
+* [KontraFunk](https://kontrafunk.radio/)
+* [Tim Pritlove](https://metaebene.me/)
