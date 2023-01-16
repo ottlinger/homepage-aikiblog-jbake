@@ -1,9 +1,10 @@
 <#include "header.ftl">
-	
+
 	<#include "menu.ftl">
 
 	<div class="page-header">
-		<h1>AIKIBLOG &mdash; Harmonie und IT</h1>
+   <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>logo.png" alt="AIKI Blog logo"/>
+	<h1>Harmonie und IT</h1>
                 <h2>Neues aus der Welt der Harmonie - in der Ruhe liegt die Kraft</h2>
 	</div>
 	<#list posts as post>
@@ -13,9 +14,9 @@
   			<p>${post.body}</p>
   		</#if>
   	</#list>
-	
+
 	<hr />
-	
+
 	<p>Older posts are available in the <a href="${content.rootpath}${config.archive_file}">archive</a>.</p>
 
 <#include "footer.ftl">
