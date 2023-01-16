@@ -10,6 +10,13 @@ Hier kommen meine Links hin, oder?!
 * [Example.org](http://example.org)
 * Keine Hühnerseite
 
+### Brave New World
+
+* [Died Suddenly](https://www.diedsuddenly.info/)
+* [Corona und unsere Kinder – Film 2021-07](https://corona-kinder-film.de/)
+* [Du bist Terrorist](http://dubistterrorist.de/)
+* [Rette Deine Freiheit](http://rettedeinefreiheit.de/)
+
 ### Fun
 
 * [Engrish Funny](http://engrishfunny.failblog.org/)
@@ -23,5 +30,4 @@ Hier kommen meine Links hin, oder?!
 * [Grüne Suchmaschine](https://de.forestle.org)
 * [DZone](https://dzone.com/)
 * [Creative-Commons-Lizenzauswahl](https://www.deviantart.com/doctormo/art/Which-CC-License-should-I-196792062)
-* [Corona und unsere Kinder – Film 2021-07](https://corona-kinder-film.de/)
 * [Codesuchmaschine](https://alternativeto.net/software/grepcode/)
