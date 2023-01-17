@@ -17,3 +17,6 @@ http://chaosradio.ccc.de/chaosradio_international-complete.rss
 http://chaosradio.ccc.de/dossier_chaotique-latest.rss
 * The Lunatic Fringe » Podcast:
 http://feeds.feedburner.com/TheLunaticFringe
+* FLAKE. Des Tastenfickers Podcast. radio eins
+https://www.radioeins.de/archiv/podcast/flake.html
+https://www.youtube.com/watch?v=5vAFFE5Wp44
