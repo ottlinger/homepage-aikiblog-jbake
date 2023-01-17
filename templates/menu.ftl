@@ -8,7 +8,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>logo.png" style="height:40px;" alt="AIKI Blog"/></a>
+          <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>/"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>logo.png" style="height:40px;" alt="AIKI Blog"/></a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
