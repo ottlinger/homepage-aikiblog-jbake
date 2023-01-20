@@ -1,7 +1,7 @@
 title=Kaputte Vereine - viel Ärger
 date=2007-02-11
 type=post
-tags=vereinsmeier
+tags=vereinsmeierei
 status=published
 ~~~~~~
 
