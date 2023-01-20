@@ -1,4 +1,4 @@
-title=WordPress ade - jBake ole
+title=WordPress adé - jBake ¡olé!
 date=2023-01-20
 type=post
 tags=wordpress,jbake
