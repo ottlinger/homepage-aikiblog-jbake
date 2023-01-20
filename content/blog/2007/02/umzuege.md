@@ -1,5 +1,5 @@
 title=Umzüge
-date=2007-02-14
+date=2007-03-04
 type=post
 tags=consulting, umziehen
 status=published
