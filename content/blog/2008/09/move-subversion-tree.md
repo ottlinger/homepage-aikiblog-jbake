@@ -1,7 +1,7 @@
 title=Subversionbaum umhängen
 date=2008-09-17
 type=post
-tags=svn move
+tags=svn move, relocate to svn+ssh
 status=published
 ~~~~~~
 
