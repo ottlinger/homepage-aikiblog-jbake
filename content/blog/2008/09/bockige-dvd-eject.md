@@ -1,5 +1,5 @@
 title=Bockige DVD-CD entfernen
-date=2022-09-04
+date=2008-09-04
 type=post
 tags=mac, dvd eject
 status=published
