@@ -1,4 +1,4 @@
-title=Update erfolgreich eingespielt - Kategorie zersemmelt
+title=Update erfolgreich eingespielt - Kategorien zersemmelt
 date=2008-08-12
 type=post
 tags=category lost,update problems, wordpress
