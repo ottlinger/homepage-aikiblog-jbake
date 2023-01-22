@@ -1,5 +1,5 @@
 title=Eclipse geht nicht – GTK-Problem – SuSE-Bug
-date=2010-05-07
+date=2010-05-21
 type=post
 tags=Ubuntu, 10.04, volume control
 status=published
