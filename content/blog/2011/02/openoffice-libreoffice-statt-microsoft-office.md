@@ -1,7 +1,7 @@
 title=Office-Migration: weg von Microsoft Office hin zu OpenOffice.org oder LibreOffice
 date=2011-02-03
 type=post
-tags=
+tags=office monopoly, libreoffice, openoffice
 status=published
 ~~~~~~
 
