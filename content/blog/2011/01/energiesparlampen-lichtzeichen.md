@@ -1,5 +1,5 @@
 title=Energiesparlampen – Lichtzeichen
-date=2010-12-16
+date=2011-01-06
 type=post
 tags=Energiesparlampen, Quecksilber, Rückgabestellen
 status=published
