@@ -13,6 +13,6 @@ keychain
 ssh-add -l &>/dev/null || ssh-add
 ```
 
-Dann kann man schnell beliebige Konsolen starten oder Konsolentabs öffnen und muss nicht seine SSH-Passwörter eingeben. Dies ist nur 1x beim initialien Anmelden ans System nötig.
+Dann kann man schnell beliebige Konsolen starten oder Konsolentabs öffnen und muss nicht seine SSH-Passwörter eingeben. Dies ist nur 1x beim initialen Anmelden ans System nötig.
 
 Aber: manche Ubuntuversionen starten bereits bei jeder bestehenden X-Session einen SSH-agent, der dann zu Ärger führen kann.
