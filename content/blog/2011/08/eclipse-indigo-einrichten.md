@@ -16,20 +16,23 @@ Um ins SVN der Firma zu kommen, muss wieder ein wenig manuell nachgearbeitet wer
 
 ### Dann noch Subversion installieren:
 
-   * Mac: Collab.net-Gedöns installieren – man muss sich leider anmelden
-   * Ubuntu: aptitude install subversion libsvn-java
+   * Mac: [Collab.net-Gedöns](https://www.open.collab.net/downloads/subversion.html) installieren – man muss sich leider anmelden
+   * Ubuntu:
+```bash
+   aptitude install subversion libsvn-java
+```
 
 ### Eclipse-Plugins installieren
 
 Über den Eclipse-Marktplatz die folgenden Plugins nachinstallieren und dann jeweils Eclipse neu starten:
 
-    Subclipse (Tigris) – SVN-Provider (nicht: Subversion nehmen sonst kommt alles durcheinander)
-    M2 – Maven2Eclipse – Eclipse-Maven-Integration
-    Maven Development Tools
-    Moreunit
-    EclEmma
-    EGit
-    Gradle
+   * [Subclipse (Tigris)](https://subclipse.tigris.org/) – SVN-Provider (nicht: Subversion nehmen sonst kommt alles durcheinander)
+   * [M2](https://eclipse.org/m2e/) – Maven2Eclipse – Eclipse-Maven-Integration
+   * Maven Development Tools
+   * Moreunit
+   * EclEmma
+   * EGit
+   * Gradle
 
 ### Eclipse-Konfiguration nachziehen
 
