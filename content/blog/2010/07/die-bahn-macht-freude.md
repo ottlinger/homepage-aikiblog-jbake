@@ -1,5 +1,5 @@
 title=Die Bahn – macht Freude
-date=2010-06-05
+date=2010-07-20
 type=post
 tags=pölitz, mdr, bahn
 status=published
