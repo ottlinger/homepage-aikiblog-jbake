@@ -5,8 +5,6 @@ tags=Ubuntu, 10.04, volume control
 status=published
 ~~~~~~
 
-
-
 Ein viel diskutiertes Problem war, dass nach einem Update Eclipse und andere GTK-basierte Anwendungen nicht mehr funktionierten.
 
 Etwaige Menüs ließen sich nicht mehr mit der Maus bedienen, was bei der Suche nach Updates in Eclipse dadurch auffiel, dass man nicht auf *weiter/continue* klicken konnte. Das Drücken von **ENTER** betätigte die Standardschaltfläche.
