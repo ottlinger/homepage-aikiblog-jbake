@@ -18,7 +18,7 @@ In der letzten Zeit durfte ich mit einer neuen relationalen Datenbank arbeiten. 
     2013/09/06 11:26:56.217 | Verwenden Sie getNextException(), um die Ausnahmebedingungen für bestimmte Elemente im Batch abzurufen. ERRORCODE=-4229, SQLSTATE=null
     2013/09/06 11:26:56.227 | Error Code: -4229
     ```
-   1. Datenbanktabellen kommen intern in einen Status ‚Benötigt Reorganisieren‘ (Pending Reorganize). Das Recht Tabellen zu Organisieren hat man nicht automatisch, wenn man das ALTER TABLE-Recht hat. Welche Operation den Status auslöst, findet man [TBD - hier](https://aikiblog.de/2013/09/06/db2-pendin/).
+   1. Datenbanktabellen kommen intern in einen Status ‚Benötigt Reorganisieren‘ (Pending Reorganize). Das Recht Tabellen zu Organisieren hat man nicht automatisch, wenn man das ALTER TABLE-Recht hat. Welche Operation den Status auslöst, findet man [hier](/blog/2013/09/db2-pending-reorganize-was-loest-den-status-aus.html).
    1. Entgegen dem Verhalten anderer Datenbanken kann man Indexe mehrfach anlegen – beim 1.Mal wird ein Index angelegt, bei allen anderen Malen das Kommando ohne Kommentar ignoriert. Stattdessen werfen andere Datenbanken Ausnahmen, denen man entnehmen kann, dass die Datenbankindexe bereits existieren.
 
 Komisch, dass es die nicht vom Markt gefegt hat oder einfach durch eine freie Alternative ersetzt wurde wie [H2](https://h2database.com/) oder [PostgreSQL](https://www.postgresql.org/)
