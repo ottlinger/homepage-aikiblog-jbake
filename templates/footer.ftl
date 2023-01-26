@@ -4,7 +4,7 @@
     
     <div id="footer">
       <div class="container">
-        <p class="muted credit">&copy; 2010-${.now?string('yyyy')} | Created with ❤️ | Mixed with <a href="http://getbootstrap.com/">Bootstrap v3.1.1</a> | Baked with <a href="http://jbake.org">JBake ${version}</a> | Powered by OpenSource</p>
+        <p class="muted credit">&copy; 2010-${.now?string('yyyy')} | Created with ❤️ | Mixed with <a href="https://getbootstrap.com/" target="_blank">Bootstrap v3.1.1</a> | Baked with <a href="https://jbake.org" target="_blank">JBake ${version}</a> | Powered by OpenSource &amp; <a href="https://www.aiki-it.de">AIKI IT</a></p>
       </div>
     </div>
     
