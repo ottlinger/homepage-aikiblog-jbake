@@ -1,19 +1,25 @@
 title=Impressum
-date=2007-02-04
+date=2007-02-09
 type=page
 status=published
 ~~~~~~
 # Impressum
 
-Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 TMG
 
 Dieses Blog ist eine private Internetseite von Philipp B. Ottlinger
 
-Kontakt:
-E-Mail: <max@muster.de>
-
-Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 Philipp B. Ottlinger
+Jahnstr. 12
+14547 Beelitz
+
+Kontakt:
+[E-Mail](mailto:&#98;&#108;&#111;&#103;&#64;&#97;&#105;&#107;&#105;&#45;&#105;&#116;&#46;&#100;&#101;)
+
+## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+siehe oben
+
+_Quelle: Generiert mit Hilfe von [eRecht24](https://www.e-recht24.de/impressum-generator.html) und [ImpressumGenerator](https://www.impressum-generator.de/)_
 
 ## Haftungsausschluss
 
@@ -34,5 +40,3 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
-
-Website Impressum von https://www.impressum-generator.de/
