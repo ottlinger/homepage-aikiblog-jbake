@@ -19,7 +19,11 @@ Kontakt:
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 siehe oben
 
+---
+
 _Quelle: Generiert mit Hilfe von [eRecht24](https://www.e-recht24.de/impressum-generator.html) und [ImpressumGenerator](https://www.impressum-generator.de/)_
+
+---
 
 ## Haftungsausschluss
 
