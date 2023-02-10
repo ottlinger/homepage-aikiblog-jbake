@@ -17,7 +17,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seiten <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>aikido.html">Aikido</a></li>
-                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>dojo.html">KaiShinKan - Dojo in Brandenburg</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>kaishinkan.html">KaiShinKan - Dojo in Brandenburg</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>verhaltensregeln.html">Verhaltensregeln</a></li>
                 <li class="divider"></li>
                 <li class="dropdown-header">Ablage</li>
