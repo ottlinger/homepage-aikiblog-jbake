@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2022-12-29
+date=2023-02-10
 type=page
 status=published
 ~~~~~~
@@ -9,6 +9,11 @@ status=published
 * [Corona und unsere Kinder – Film 2021-07](https://corona-kinder-film.de/)
 * [Du bist Terrorist](http://dubistterrorist.de/)
 * [Rette Deine Freiheit](http://rettedeinefreiheit.de/)
+
+### Hilfsmittel
+
+* [MetaCrawler](https://www.metacrawler.com/)
+* [PreSearch](https://presearch.com/)
 
 ### Fun
 
@@ -31,6 +36,7 @@ status=published
 * [Daily WTF](https://thedailywtf.com/)
 * [Flugplanungen](https://www.informationisbeautiful.net/visualizations/reduce-your-chances-of-dying-in-a-plane-crash/)
 * [Tanith DJ Berlin](https://soundcloud.com/tanith)
+* [Tim Pritlove](https://metaebene.me/)
 * [Digitally Imported](https://di.fm)
 * [KontraFunk](https://kontrafunk.radio/)
-* [Tim Pritlove](https://metaebene.me/)
+* [Auf1 TV](https://auf1.tv)
