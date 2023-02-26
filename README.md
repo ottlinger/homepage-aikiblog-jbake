@@ -1,11 +1,11 @@
 # homepage-aikiblog-jbake
 * jBake version of my very old Wordpress blog
-* available at https://blog.aikiit.de
+* available at https://blog.aikiit.de or (as long as I'm the owner of the domain: https://aikiblog.de)
 
 # Dev setup
 ## jBake install & local setup
 
-Download >= [jbake-2.7.0-rc.6-bin.zip](https://jbake.org/news/jbake-v2.7.0-release-candidate.html) due to problems on newer Apple hardware
+Download >= [jbake-2.7.0-rc.7-bin.zip](https://jbake.org/news/jbake-v2.7.0-release-candidate.html) due to problems on newer Apple hardware
 (regular brew installed version crashes upon start)
 
 ```
