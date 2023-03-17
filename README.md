@@ -31,5 +31,5 @@ rm -rf output/*
 echo "Starting to bake ...."
 jbake -b
 echo "Synching to upstream host...."
-scp -r output/* my-ISP-coordinates
+scp -O -r output/* my-ISP-coordinates
 ```
