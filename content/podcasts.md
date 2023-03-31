@@ -20,3 +20,5 @@ http://feeds.feedburner.com/TheLunaticFringe
 * FLAKE. Des Tastenfickers Podcast. radio eins
 https://www.radioeins.de/archiv/podcast/flake.html
 https://www.youtube.com/watch?v=5vAFFE5Wp44
+* mrbrown show:
+https://open.spotify.com/show/4to1LaQmDX2ffXJRmTEjEb
