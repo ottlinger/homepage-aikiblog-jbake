@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2023-02-10
+date=2023-05-13
 type=page
 status=published
 ~~~~~~
@@ -9,6 +9,7 @@ status=published
 * [Corona und unsere Kinder – Film 2021-07](https://corona-kinder-film.de/)
 * [Du bist Terrorist](http://dubistterrorist.de/)
 * [Rette Deine Freiheit](http://rettedeinefreiheit.de/)
+* [privates ChatGPT](https://github.com/imartinez/privateGPT)
 
 ### Hilfsmittel
 
