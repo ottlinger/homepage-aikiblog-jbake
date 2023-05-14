@@ -41,3 +41,4 @@ status=published
 * [Digitally Imported](https://di.fm)
 * [KontraFunk](https://kontrafunk.radio/)
 * [Auf1 TV](https://auf1.tv)
+* [Rupor News](https://rupor-news.ru)
