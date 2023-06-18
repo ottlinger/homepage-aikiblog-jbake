@@ -1,0 +1,4 @@
+# allow everything except legal stuff
+User-agent: *
+Disallow: /impressum.html
+
