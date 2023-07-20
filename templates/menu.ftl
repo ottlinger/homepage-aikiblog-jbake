@@ -22,6 +22,7 @@
                 <li class="divider"></li>
                 <li class="dropdown-header">Ablage</li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>podcasts.html">Podcasts</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>mucke.html">Mucke</a></li>
               </ul>
             </li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Archive</a></li>
