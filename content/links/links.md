@@ -15,6 +15,7 @@ status=published
 
 * [MetaCrawler](https://www.metacrawler.com/)
 * [PreSearch](https://presearch.com/)
+* [KeePass](https://keepass.info/)
 
 ### Fun
 
