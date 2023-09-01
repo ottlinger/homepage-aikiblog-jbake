@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2023-08-27
+date=2023-09-01
 type=page
 status=published
 ~~~~~~
@@ -17,6 +17,8 @@ status=published
 * [MetaCrawler](https://www.metacrawler.com/)
 * [PreSearch](https://presearch.com/)
 * [KeePass](https://keepass.info/)
+* [SwissCows - Suchmaschine](https://swisscows.com/de)
+* [QWant - Suche](https://www.qwant.com/)
 
 ### Fun
 
