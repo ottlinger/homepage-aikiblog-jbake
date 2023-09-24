@@ -46,3 +46,4 @@ status=published
 * [KontraFunk](https://kontrafunk.radio/)
 * [Auf1 TV](https://auf1.tv)
 * [Rupor News](https://rupor-news.ru)
+* [RT DE](https://loobloo.tv/live/rtde/)
