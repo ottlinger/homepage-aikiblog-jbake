@@ -19,6 +19,7 @@ status=published
 * [KeePass](https://keepass.info/)
 * [SwissCows - Suchmaschine](https://swisscows.com/de)
 * [QWant - Suche](https://www.qwant.com/)
+* [Miro Vorlagen](https://linktr.ee/davewestgarth)
 
 ### Fun
 
