@@ -1,5 +1,5 @@
 title=Impressum
-date=2007-02-09
+date=2023-12-10
 type=page
 status=published
 ~~~~~~
@@ -9,9 +9,7 @@ status=published
 
 Dieses Blog ist eine private Internetseite von Philipp B. Ottlinger
 
-Philipp B. Ottlinger
-Jahnstr. 12
-14547 Beelitz
+![ImpressumsAdresse](/imprAdr.png)
 
 Kontakt:
 [E-Mail](mailto:&#98;&#108;&#111;&#103;&#64;&#97;&#105;&#107;&#105;&#45;&#105;&#116;&#46;&#100;&#101;)
