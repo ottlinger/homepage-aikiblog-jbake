@@ -69,28 +69,23 @@ In das Programm bin ich gesprungen, indem ich das automatisch im Dateimanager an
 
 Shakka, so kann man kann hier direkt die Musikstücke einzeln abspielen.
 
-Beim Versuch Dateien von der lokalen Musikbibliothek in den iPod zu kopieren, bleibt die UI hängen mit einem "Transferring tracks to iPod von XYZ", aber nichts passiert.
+#### Problem: Upload auf das Gerät geht nicht
+**ABER** Beim Versuch Dateien von der lokalen Musikbibliothek in den iPod zu kopieren, bleibt die UI hängen mit einem "Transferring tracks to iPod von XYZ", aber nichts passiert.
 
+#### Download vom Gerät in die lokale Musikbibliothek
 
-Das Runterkopieren geht in der Rhythmbox UI (Strg-C auf der Datei im iPod und Strg-V im EditAll-Ordner der Musikansicht).
-
-
-## iPod nano
-
-Wer kennt das nicht? Bilder von der Kamera runtergeladen (z.B. für Kleinanzeigen), aber dann darf man nur 12 MB hochladen und will gern alle Dateien schnell verkleinern.
-Für die Konsole könnte man sich nun schnell ein Skripte basteln, dass mittels [ImageMagick convert](https://imagemagick.org/script/convert.php) die Sachen umwandelt, aber wenn man das nur unregelmäßig macht, ist die Integration in den Dateimanager (nautilus) ganz komfortabel.
-
-## Installation und Nautilus-Neustart
+Das Runterkopieren von Musikdateien vom Gerät geht in der Rhythmbox UI.
+Dazu einfach die gewünschten Dateien mittels Strg-C auf der Datei im iPod kopieren und Strg-V im EditAll-Ordner der Musikansicht zum Einfügen.
+So liegt die Datei dann unter
+```bash
+user@ubuntu:~/Music$
+```
+und die Metadaten in der Audiodatei führen dazu, dass eine Orderhierarchie angelegt wird:
 
 ```bash
-sudo apt install nautilus-image-converter
-pkill nautilus oder nautilus -q
+./Usher
+./Usher/Confessions
+./Usher/Confessions/02 - Yeah!.mp3
 ```
 
-Jetzt hat man in einem beliebigen Verzeichnis neue Kontextmenüeinträge:
-
-* Resize image
-* Rotate image
-
-Auf diese Art und Weise kann man die Dateien schnell in Unterordner kopieren, alle markieren und dann beispielsweise auf 90% Größe skalieren.
-Einfach wunderbar!
+## iPod nano
