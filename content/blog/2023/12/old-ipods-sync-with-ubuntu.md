@@ -89,3 +89,61 @@ und die Metadaten in der Audiodatei führen dazu, dass eine Orderhierarchie ange
 ```
 
 ## iPod nano
+
+Interessanterweise sieht die Meldung etwas anders aus, wenn man das Gerät an den Rechner anstöpselt:
+
+```bash
+[ 9912.364673] usb 1-5: USB disconnect, device number 10
+[10170.996404] usb 1-5: new high-speed USB device number 11 using xhci_hcd
+[10171.145734] usb 1-5: New USB device found, idVendor=05ac, idProduct=1260, bcdDevice= 0.01
+[10171.145746] usb 1-5: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[10171.145752] usb 1-5: Product: iPod
+[10171.145756] usb 1-5: Manufacturer: Apple
+[10171.145760] usb 1-5: SerialNumber: 000A270018CA81CF
+[10171.147034] usb-storage 1-5:1.0: USB Mass Storage device detected
+[10171.147745] scsi host6: usb-storage 1-5:1.0
+[10172.179351] scsi 6:0:0:0: Direct-Access     Apple    iPod             1.62 PQ: 0 ANSI: 0
+[10172.180011] sd 6:0:0:0: Attached scsi generic sg4 type 0
+[10172.219418] sd 6:0:0:0: [sdd] 991232 2048-byte logical blocks: (2.03 GB/1.89 GiB)
+[10172.220341] sd 6:0:0:0: [sdd] Write Protect is off
+[10172.220436] sd 6:0:0:0: [sdd] Mode Sense: 68 00 00 08
+[10172.221431] sd 6:0:0:0: [sdd] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA
+[10172.228544]  sdd: sdd1 sdd2
+[10172.233834] sd 6:0:0:0: [sdd] Attached SCSI removable disk
+[10173.604122] audit: type=1107 audit(1703870937.443:319): pid=1427 uid=103 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_signal"  bus="system" path="/org/freedesktop/login1" interface="org.freedesktop.DBus.Properties" member="PropertiesChanged" name=":1.5" mask="receive" pid=203835 label="snap.firefox.firefox" peer_pid=1468 peer_label="unconfined"
+                exe="/usr/bin/dbus-daemon" sauid=103 hostname=? addr=? terminal=?'
+[10173.619443] audit: type=1107 audit(1703870937.459:320): pid=1427 uid=103 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_signal"  bus="system" path="/org/freedesktop/login1" interface="org.freedesktop.DBus.Properties" member="PropertiesChanged" name=":1.5" mask="receive" pid=203835 label="snap.firefox.firefox" peer_pid=1468 peer_label="unconfined"
+                exe="/usr/bin/dbus-daemon" sauid=103 hostname=? addr=? terminal=?'
+[10179.031152] apple-mfi-fastcharge 1-5: USB disconnect, device number 11
+[10179.052571] audit: type=1107 audit(1703870942.895:321): pid=1427 uid=103 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_signal"  bus="system" path="/org/freedesktop/login1" interface="org.freedesktop.DBus.Properties" member="PropertiesChanged" name=":1.5" mask="receive" pid=203835 label="snap.firefox.firefox" peer_pid=1468 peer_label="unconfined"
+                exe="/usr/bin/dbus-daemon" sauid=103 hostname=? addr=? terminal=?'
+[10179.065932] audit: type=1107 audit(1703870942.907:322): pid=1427 uid=103 auid=4294967295 ses=4294967295 subj=unconfined msg='apparmor="DENIED" operation="dbus_signal"  bus="system" path="/org/freedesktop/login1" interface="org.freedesktop.DBus.Properties" member="PropertiesChanged" name=":1.5" mask="receive" pid=203835 label="snap.firefox.firefox" peer_pid=1468 peer_label="unconfined"
+                exe="/usr/bin/dbus-daemon" sauid=103 hostname=? addr=? terminal=?'
+[10180.470048] FAT-fs (sdd2): unable to read boot sector to mark fs as dirty
+```
+
+Interessanterweise wird das Gerät erkannt, wenn man den Hold-Knopf an der Geräteoberseite so einstellt bzw. im Zustand hin- und herwechselt bei angeschlossenem Gerät,
+dass man nichts rotes sieht. Es wird plötzlich als Gerät im Dateimanager gemounted, nachdem man den Hold-Schalter hin und her bewegt!
+Zusätzlich kommt der Audioton, der immer beim Einstecken eines USB-Geräts ertönt.
+
+Ein [Reparieren der Dateisysteme](https://devicetests.com/repair-fat32-file-system-ubuntu) ist glücklicherweise nicht nötig:
+
+```bash
+$ sudo dosfsck -w -r -l -a -v -t /dev/sdd2
+bzw.
+$ sudo fsck.vfat -a /dev/sdd2
+```
+
+
+### GtkPod
+
+Der Aufruf von [gtkpod](https://github.com/trinitonesounds/gtkpod) klappt mit diesem Gerät und man erkennt oben in der Menüleiste ein Player-Symbol.
+Daneben fragt die UI ab, um welche Gerätegeneration es sich handelt und bietet an, ein farblich passendes Icon auszuwählen.
+
+Als dies geschehen ist, kommen 2 Warnungen, dass irgendwelche Prüfummen nicht stimmen. Der Player hat ja ein Hardwareproblem und vielleicht kam es dazu zu gewissen Synchronisationsunterschieden ..... aber die Hardware tut.
+
+### Rhythmbox
+
+Sollte so wie oben beschrieben funktionieren!
+
+/happy hacking/
