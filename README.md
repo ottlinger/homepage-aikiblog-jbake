@@ -1,6 +1,6 @@
 # homepage-aikiblog-jbake
 * jBake version of my very old Wordpress blog
-* available at https://blog.aikiit.de or (as long as I'm the owner of the domain: https://aikiblog.de)
+* available at https://blog.aikiit.de or (before that I used to be the proud owner of https://aikiblog.de but did not want to invest in this domain anymore)
 
 # Dev setup
 ## jBake install & local setup
