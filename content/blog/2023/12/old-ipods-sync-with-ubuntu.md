@@ -10,6 +10,9 @@ Beim Aufräumen in der Zeit zwischen den Jahren, habe ich meine alten Apple-Ger�
 * [iPod mini](https://de.wikipedia.org/wiki/IPod#Erste_Generation)
 * [iPod nano silber 2G](https://de.wikipedia.org/wiki/IPod#Zweite_Generation_3)
 
+
+Zuerst nicht vergessen das VPN auszuschalten, da sonst der Automount-Mechanismus nicht ausgelöst wird (das Einstecken von USB-Zuebhör wird ignoriert).
+
 ## iPod mini
 
 Nachdem ich glücklicherweise noch ein USB-Spezialapple-Kabel gefunden hab, schloß ich das Gerät an meinen Rechner und sah im Gerätebildschirm,
@@ -76,7 +79,9 @@ Shakka, so kann man kann hier direkt die Musikstücke einzeln abspielen.
 
 Das Runterkopieren von Musikdateien vom Gerät geht in der Rhythmbox UI.
 Dazu einfach die gewünschten Dateien mittels Strg-C auf der Datei im iPod kopieren und Strg-V im EditAll-Ordner der Musikansicht zum Einfügen.
-So liegt die Datei dann unter
+Zu beachten ist, dass man im unteren Bereich die gewünschten Titel markieren muss, da ein Auswählen des Autors oder einzelner Alben zur Fehlermeldung führt "Cannot open device for writing"; mit einzelnen Titeln klappt es aber wunderbar und die Ordnerstruktur Künstlername-Album wird automatisch mit importiert.
+
+So liegen die Daten dann unter
 ```bash
 user@ubuntu:~/Music$
 ```
