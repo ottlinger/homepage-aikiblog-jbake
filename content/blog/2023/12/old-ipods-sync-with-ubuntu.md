@@ -78,7 +78,7 @@ Shakka, so kann man kann hier direkt die Musikstücke einzeln abspielen.
 #### Download vom Gerät in die lokale Musikbibliothek
 
 Das Runterkopieren von Musikdateien vom Gerät geht in der Rhythmbox UI.
-Dazu einfach die gewünschten Dateien mittels Strg-C auf der Datei im iPod kopieren und Strg-V im EditAll-Ordner der Musikansicht zum Einfügen.
+Dazu einfach die gewünschten Dateien mittels Strg-C auf der Datei im iPod kopieren und Strg-V im EditAll-Ordner der Musikansicht zum Einfügen (oder einfach im Menübaum auf Library-Music gehen).
 Zu beachten ist, dass man im unteren Bereich die gewünschten Titel markieren muss, da ein Auswählen des Autors oder einzelner Alben zur Fehlermeldung führt "Cannot open device for writing"; mit einzelnen Titeln klappt es aber wunderbar und die Ordnerstruktur Künstlername-Album wird automatisch mit importiert.
 
 So liegen die Daten dann unter
