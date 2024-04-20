@@ -48,3 +48,7 @@ status=published
 * [Auf1 TV](https://auf1.tv)
 * [Rupor News](https://rupor-news.ru)
 * [RT DE](https://loobloo.tv/live/rtde/)
+
+### Reales Leben
+
+* [Kino lokal](https://kinotickets.express/beelitz_neues_lichtspielhaus/movies)
