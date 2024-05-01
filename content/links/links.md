@@ -30,12 +30,16 @@ status=published
 
 ### Wissen
 
-* [Ubuntu Buch](https://openbook.rheinwerk-verlag.de/ubuntu/)
 * [Eltern stehen auf](https://elternstehenauf.de/)
 * [Grüne Suchmaschine](https://de.forestle.org)
 * [DZone](https://dzone.com/)
 * [Creative-Commons-Lizenzauswahl](https://www.deviantart.com/doctormo/art/Which-CC-License-should-I-196792062)
 * [Codesuchmaschine](https://alternativeto.net/software/grepcode/)
+
+### Linux
+
+* [Ubuntu Buch](https://openbook.rheinwerk-verlag.de/ubuntu/)
+* [CHMOD-Umrechner](https://www.chmodcalculator.net/)
 
 ### Blogroll
 
