@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2023-09-01
+date=2024-05-19
 type=page
 status=published
 ~~~~~~
@@ -10,7 +10,7 @@ status=published
 * [Du bist Terrorist](http://dubistterrorist.de/)
 * [Rette Deine Freiheit](http://rettedeinefreiheit.de/)
 * [privates ChatGPT](https://github.com/imartinez/privateGPT)
-* [Beitragsblocker](https://www.keinrundfunkbeitragmehr.de/)
+* [Beitragsblocker](https://www.beitragsblocker.de/)
 
 ### Hilfsmittel
 
