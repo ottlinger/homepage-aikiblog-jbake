@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2024-05-19
+date=2024-05-26
 type=page
 status=published
 ~~~~~~
@@ -20,6 +20,7 @@ status=published
 * [SwissCows - Suchmaschine](https://swisscows.com/de)
 * [QWant - Suche](https://www.qwant.com/)
 * [Miro Vorlagen](https://linktr.ee/davewestgarth)
+* [PomoFocus Time](https://pomofocus.io/)
 
 ### Fun
 
