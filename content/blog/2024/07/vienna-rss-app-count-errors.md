@@ -21,4 +21,4 @@ Kurzum - die Zählung ist nicht immer korrekt. In früheren Versionen half es:
 * alle Feeds kurz durchzuklicken (mittels Hoch/Runter-Pfeil auf der Tastatur)
 * alle Feeds zu aktualisieren
 
-Weitere Disskussionen gern am Bug [#1549](https://github.com/ViennaRSS/vienna-rss/issues/1549) verfolgen #openSourceRocks
+Weitere Diskussionen gern am Bug [#1549](https://github.com/ViennaRSS/vienna-rss/issues/1549) verfolgen #openSourceRocks
