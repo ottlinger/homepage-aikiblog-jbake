@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2024-05-26
+date=2024-08-15
 type=page
 status=published
 ~~~~~~
@@ -57,3 +57,4 @@ status=published
 ### Reales Leben
 
 * [Kino lokal](https://kinotickets.express/beelitz_neues_lichtspielhaus/movies)
+* [Leguano Outlets](https://www.leguano.eu/outlets)
