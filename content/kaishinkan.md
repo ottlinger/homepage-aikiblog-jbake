@@ -21,11 +21,14 @@ Einfach mal mittrainieren, vorbeischauen und losrollen :-)
 Zusätzlich biete ich Seminare zum Themengebiet [Aikido & Entspannung](https://aikido-entspannung.de) an.
 
 Diese Seminare können die Themen:
- * Aikido
- * Entspannung
- * Autogenes Training
+
+  * Aikido
+  * Entspannung
+  * Autogenes Training
 
 beinhalten.
 
-Bei Fragen gern melden.
+Schwerpunkt der Seminare ist es die Dinge zu erfahren und nicht nur darüber zu reden.
+Neben den Herausforderungen des Alltags bieten die Seminare auch einen anderen Austausch.
 
+Bei Fragen gern melden.
