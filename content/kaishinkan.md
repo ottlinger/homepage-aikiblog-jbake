@@ -23,7 +23,7 @@ Zusätzlich biete ich Seminare zum Themengebiet [Aikido & Entspannung](https://a
 Diese Seminare können die Themen:
  * Aikido
  * Entspannung
- * Autogenes Training 
+ * Autogenes Training
 
 beinhalten.
 
