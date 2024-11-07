@@ -1,5 +1,5 @@
 title=Mucke
-date=2023-07-20
+date=2024-11-07
 type=page
 status=published
 ~~~~~~
@@ -30,3 +30,13 @@ status=published
 * [Oliver Shanti, Spirit of Budo](https://www.youtube.com/watch?v=seq-nbqkhwQ)
 * [Shakuhachi](https://www.youtube.com/watch?v=ltOWYSV_diE)
 * [Shamisen](https://www.youtube.com/watch?v=8HTNaqEMOgk)
+
+## Trance
+
+* [di.fm](https://di.fm)
+    * A State of Trance - https://tranceattack.net/a-state-of-trance-1197/
+    * Paul van Dyk, Vonyc Sessions
+
+* Shugz: gefunden bei ASOT#1197
+    * https://soundcloud.com/shugzofficial
+    * https://soundcloud.com/shugo_srd
