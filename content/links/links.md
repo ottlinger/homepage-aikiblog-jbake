@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2024-08-15
+date=2024-12-07
 type=page
 status=published
 ~~~~~~
@@ -53,6 +53,13 @@ status=published
 * [Auf1 TV](https://auf1.tv)
 * [Rupor News](https://rupor-news.ru)
 * [RT DE](https://loobloo.tv/live/rtde/)
+
+### Die Zukunft
+
+* [Presearch](https://presearch.com/)
+* [Bastyon](https://bastyon.com/)
+* [Nostr](https://nostr.com/)
+* [Qortal](https://qortal.org/)
 
 ### Reales Leben
 
