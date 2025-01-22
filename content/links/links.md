@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2024-12-07
+date=2025-01-22
 type=page
 status=published
 ~~~~~~
@@ -21,6 +21,7 @@ status=published
 * [QWant - Suche](https://www.qwant.com/)
 * [Miro Vorlagen](https://linktr.ee/davewestgarth)
 * [PomoFocus Time](https://pomofocus.io/)
+* [ShredOS - Datenlöscher](https://github.com/PartialVolume/shredos.x86_64)
 
 ### Fun
 
