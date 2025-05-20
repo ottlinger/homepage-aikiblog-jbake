@@ -54,6 +54,7 @@ status=published
 * [Auf1 TV](https://auf1.tv)
 * [Rupor News](https://rupor-news.ru)
 * [RT DE](https://loobloo.tv/live/rtde/)
+* [Rutube](https://rutube.ru/)
 
 ### Die Zukunft
 
