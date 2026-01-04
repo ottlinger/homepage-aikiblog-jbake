@@ -68,3 +68,7 @@ status=published
 * [Kino lokal](https://kinotickets.express/beelitz_neues_lichtspielhaus/movies)
 * [Leguano Outlets](https://www.leguano.eu/outlets)
 * [Aufgussplan Lu](https://kristall-therme-ludwigsfelde.de/sauna/aufgussplan/)
+
+### Aufarbeitung
+
+* [Ärzte stehen auf](https://www.aerztestehenauf.de/)
