@@ -5,7 +5,7 @@
 # Dev setup
 ## jBake install & local setup
 
-Download >= [jbake-2.7.0-rc.7-bin.zip](https://jbake.org/news/jbake-v2.7.0-release-candidate.html) due to problems on newer Apple hardware
+Download >= [jbake-2.7.0-bin.zip](https://github.com/jbake-org/jbake/releases/tag/v2.7.0) due to problems on newer Apple hardware
 (regular brew installed version crashes upon start)
 
 ```
