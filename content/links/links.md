@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2026-01-01
+date=2026-03-06
 type=page
 status=published
 ~~~~~~
@@ -62,6 +62,15 @@ status=published
 * [Bastyon](https://bastyon.com/)
 * [Nostr](https://nostr.com/)
 * [Qortal](https://qortal.org/)
+
+### Die sogenannte künstliche Intelligenz
+
+* [Nexiqa](https://nexiqa.com/)
+* [Grok](https://grok.com)
+* [Bilder](https://ki-bild-erstellen.de/)
+* [Canva-Bilder](https://www.canva.com/de_de/ai-image-generator/)
+* [OpenAI](https://openai.com/)
+* [Claude](https://claude.com/)
 
 ### Reales Leben
 
