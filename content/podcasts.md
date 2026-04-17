@@ -1,5 +1,5 @@
 title=Podcasts
-date=2008-12-18
+date=2026-04-17
 type=page
 status=published
 ~~~~~~
@@ -22,3 +22,4 @@ https://www.radioeins.de/archiv/podcast/flake.html
 https://www.youtube.com/watch?v=5vAFFE5Wp44
 * mrbrown show:
 https://open.spotify.com/show/4to1LaQmDX2ffXJRmTEjEb
+* Ludger K und Serge Menga: [Schwarz Weiß](https://schwarzweisspodcast.de)
