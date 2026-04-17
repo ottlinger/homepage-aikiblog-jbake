@@ -22,4 +22,4 @@ https://www.radioeins.de/archiv/podcast/flake.html
 https://www.youtube.com/watch?v=5vAFFE5Wp44
 * mrbrown show:
 https://open.spotify.com/show/4to1LaQmDX2ffXJRmTEjEb
-* Ludger K und Serge Menga: [Schwarz Weiß](https://schwarzweisspodcast.de)
+* Ludger K und Serge Menga: [Schwarz Weiß](http://schwarzweisspodcast.de)
