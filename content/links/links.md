@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2026-05-09
+date=2026-05-10
 type=page
 status=published
 ~~~~~~
@@ -77,6 +77,7 @@ status=published
 * [Kino lokal](https://kinotickets.express/beelitz_neues_lichtspielhaus/movies)
 * [Leguano Outlets](https://www.leguano.eu/outlets)
 * [Aufgussplan Lu](https://kristall-therme-ludwigsfelde.de/sauna/aufgussplan/)
+* [Bahnhofsinfo](https://www.bahnhof.de/beelitz-stadt)
 
 ### Aufarbeitung
 
