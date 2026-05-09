@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2026-03-06
+date=2026-05-09
 type=page
 status=published
 ~~~~~~
@@ -81,3 +81,6 @@ status=published
 ### Aufarbeitung
 
 * [Ärzte stehen auf](https://www.aerztestehenauf.de/)
+
+### Medien
+* [Gutfeld - FoxNews](https://www.foxnews.com/shows/gutfeld)
