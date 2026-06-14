@@ -29,6 +29,7 @@ status=published
 * [Engrish Funny](http://engrishfunny.failblog.org/)
 * [Rauschen zur Entspannung](https://simplynoise.com/)
 * [Triff die Fliege](http://majman.net/fly_loader.html)
+* [C64-Spiele](https://c64.krissz.hu/online-playable-games/)
 
 ### Wissen
 
