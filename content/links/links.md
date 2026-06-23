@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2026-05-10
+date=2026-06-23
 type=page
 status=published
 ~~~~~~
@@ -22,6 +22,7 @@ status=published
 * [Miro Vorlagen](https://linktr.ee/davewestgarth)
 * [PomoFocus Time](https://pomofocus.io/)
 * [ShredOS - Datenlöscher](https://github.com/PartialVolume/shredos.x86_64)
+* [Katakana](https://www.japandict.com/%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A)
 
 ### Fun
 
