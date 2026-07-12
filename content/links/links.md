@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2026-06-23
+date=2026-07-12
 type=page
 status=published
 ~~~~~~
@@ -11,6 +11,7 @@ status=published
 * [Rette Deine Freiheit](http://rettedeinefreiheit.de/)
 * [privates ChatGPT](https://github.com/imartinez/privateGPT)
 * [Beitragsblocker](https://www.beitragsblocker.de/)
+* [NGO Files](https://ngofiles.de/)
 
 ### Hilfsmittel
 
