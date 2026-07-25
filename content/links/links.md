@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2026-07-12
+date=2026-07-25
 type=page
 status=published
 ~~~~~~
@@ -81,6 +81,7 @@ status=published
 * [Leguano Outlets](https://www.leguano.eu/outlets)
 * [Aufgussplan Lu](https://kristall-therme-ludwigsfelde.de/sauna/aufgussplan/)
 * [Bahnhofsinfo](https://www.bahnhof.de/beelitz-stadt)
+* [Maerker](https://maerker.brandenburg.de/maerker/de/#/meldung/anlegen/beelitz)
 
 ### Aufarbeitung
 
