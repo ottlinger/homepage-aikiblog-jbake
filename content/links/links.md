@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2026-08-28
+date=2026-09-17
 type=page
 status=published
 ~~~~~~
@@ -16,7 +16,6 @@ status=published
 ### Hilfsmittel
 
 * [MetaCrawler](https://www.metacrawler.com/)
-* [PreSearch](https://presearch.com/)
 * [KeePass](https://keepass.info/)
 * [SwissCows - Suchmaschine](https://swisscows.com/de)
 * [QWant - Suche](https://www.qwant.com/)
