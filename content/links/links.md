@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2026-09-17
+date=2026-09-28
 type=page
 status=published
 ~~~~~~
@@ -60,7 +60,7 @@ status=published
 
 ### Die Zukunft
 
-* [Presearch](https://presearch.com/)
+* [ReclaimTheNet](https://reclaimthenet.org/recommended-tools)
 * [Bastyon](https://bastyon.com/)
 * [Nostr](https://nostr.com/)
 * [Qortal](https://qortal.org/)
