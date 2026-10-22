@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2026-09-28
+date=2026-10-22
 type=page
 status=published
 ~~~~~~
@@ -64,6 +64,7 @@ status=published
 * [Bastyon](https://bastyon.com/)
 * [Nostr](https://nostr.com/)
 * [Qortal](https://qortal.org/)
+* [Pi](https://pi.dev/)
 
 ### Die sogenannte künstliche Intelligenz
 
