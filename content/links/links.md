@@ -1,5 +1,5 @@
 title=Kleine Linksammlung
-date=2026-10-22
+date=2026-10-24
 type=page
 status=published
 ~~~~~~
@@ -64,7 +64,6 @@ status=published
 * [Bastyon](https://bastyon.com/)
 * [Nostr](https://nostr.com/)
 * [Qortal](https://qortal.org/)
-* [Pi](https://pi.dev/)
 
 ### Die sogenannte künstliche Intelligenz
 
@@ -74,6 +73,7 @@ status=published
 * [Canva-Bilder](https://www.canva.com/de_de/ai-image-generator/)
 * [OpenAI](https://openai.com/)
 * [Claude](https://claude.com/)
+* [Pi](https://pi.dev/)
 
 ### Reales Leben
 
@@ -82,6 +82,7 @@ status=published
 * [Aufgussplan Lu](https://kristall-therme-ludwigsfelde.de/sauna/aufgussplan/)
 * [Bahnhofsinfo](https://www.bahnhof.de/beelitz-stadt)
 * [Maerker](https://maerker.brandenburg.de/maerker/de/#/meldung/anlegen/beelitz)
+* [Fahrradanhänger Maiporter](https://www.maiporter.de/)
 
 ### Aufarbeitung
 
